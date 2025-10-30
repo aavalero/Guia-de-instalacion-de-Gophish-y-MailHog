@@ -5,10 +5,10 @@
 
 sudo su
 apt update && apt upgrade -y
-![Pasted_image 20251029203057.png](Pasted_image 20251029203057.png)
+![Pasted_image 20251029203057.png](Pasted_image_20251029203057.png)
 
 apt install -y wget curl git sudo
-![Pasted_image 20251029203145.png](Pasted_image 20251029203145.png)
+![Pasted_image 20251029203145.png](Pasted_image_20251029203145.png)
 ### INSTALACION DE GOPHISH
 
 sudo apt install -y gophish
